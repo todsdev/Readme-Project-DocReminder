@@ -195,6 +195,7 @@ Gallery | Camera
 
 </details>
 
+---
 
 # Code Example
 ```kotlin
@@ -236,6 +237,7 @@ The code only displays the request of the action, but not the code of the event 
 >- [Navigation Components](https://developer.android.com/guide/navigation)
 >- [Hilt](https://dagger.dev/hilt/)
 >- [ROOM](https://developer.android.com/jetpack/androidx/releases/room?hl=pt-br)
+>- [Firebase](https://firebase.google.com)
 >- [Picasso](https://square.github.io/picasso/)
 >- [Carousel View](https://github.com/sayyam/carouselview)
 ---
