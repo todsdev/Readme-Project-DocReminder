@@ -2,6 +2,7 @@
 # Doc Reminder 
   ![Demo](https://media.discordapp.net/attachments/655489748885831713/1063052342859157516/logo_DOC_REMINDER.png)
 
+  ---
 
 <details>
   <summary>Latest Release</summary>
