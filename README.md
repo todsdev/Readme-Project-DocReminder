@@ -98,7 +98,7 @@ The **Doc** item have different functionalities, such as:
 >- The application allows to be used for different users in the same device without sharing content between them, if you use a different account to sign in
 
 ***
-![](https://media.discordapp.net/attachments/655489748885831713/1063094676103643136/ezgif.com-gif-maker.gif)
+![](https://media.discordapp.net/attachments/655489748885831713/1063181011715903619/ezgif.com-gif-maker.gif)
 >- The application allows the user to *search* and *reorder* throught the list easily in order to any **Doc** be easily found at any time
 
 ***
